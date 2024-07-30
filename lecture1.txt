@@ -1,0 +1,1 @@
+Hi. There. This is before git init
